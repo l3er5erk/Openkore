@@ -1,0 +1,13 @@
+ --control="control\Bot1"
+ --control="control\Bot2"
+ --control="control\Bot3"
+ --control="control\Bot4"
+ --control="control\Bot5"
+ --control="control\Bot6"
+ --control="control\Bot7"
+ --control="control\Bot8"
+ --control="control\Bot9"
+ --control="control\Bot10"
+ --control="control\Bot11"
+ --control="control\Bot12"
+ --control="control\Bot12"**Git
